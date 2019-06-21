@@ -1,11 +1,7 @@
 # 简单的选项卡效果示例
 
 ## 先看效果
-初始效果，默认选择OPTION 1
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190621081131416.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p0XzE2S0s=,size_16,color_FFFFFF,t_70)
-点击菜单OPTION 2之后：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190621081148614.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p0XzE2S0s=,size_16,color_FFFFFF,t_70)
-
+https://blog.csdn.net/zt_16KK/article/details/93157490
 ## HTML代码
 ```
     <div class="option-card">
@@ -93,5 +89,5 @@ function clickCard(e, id) {
         document.getElementById(id).classList.add("show-page");
     }
 ```
-## 完整代码
-https://github.com/zhangzhentao1995/option-card.git
+## 博客
+https://blog.csdn.net/zt_16KK/article/details/93157490
